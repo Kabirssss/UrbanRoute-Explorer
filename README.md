@@ -2,8 +2,8 @@
 
 Pathfinding Visualizer is a web application that visualizes various pathfinding algorithms to find the shortest path between a source node and an end node on a real-world map. The visualization helps in understanding how different algorithms work in finding the shortest path.
 
-![Pathfinding Visualizer](./public/Images/Day.png)
-![Pathfinding Visualizer](./public/Images/Night.png)
+![Pathfinding Visualizer](./public/Images/day.png)
+![Pathfinding Visualizer](./public/Images/night.png)
 
 ## Technologies Used
 
@@ -47,7 +47,7 @@ Follow these steps to run the project on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/rohitmultani/RealMapShortestDistance
+   https://github.com/Kabirssss/UrbanRoute-Explorer.git
    
 2. **Clone the Repository**
 
